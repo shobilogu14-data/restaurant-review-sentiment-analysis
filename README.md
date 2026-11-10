@@ -92,3 +92,26 @@ GitHub documentation, implementation files and reproducibility instructions are 
 MSc Data Science (Distinction), University of East London
 
 [LinkedIn](https://www.linkedin.com/in/shobana-l-a0032a19a) | [Portfolio](https://shobilogu14-data.github.io/)
+
+## Results & Visualisations
+
+### Sentiment Distribution
+![Sentiment Distribution](visualisations/visualisations/figure_4_2.png)
+
+### Most Frequently Mentioned Restaurant Aspects
+![Restaurant Aspects](visualisations/visualisations/figure_4_4.png)
+
+### Sentiment by Restaurant Aspect
+![Aspect Sentiment](visualisations/visualisations/figure_4_5.png)
+
+### Model Performance Comparison
+![Model Comparison](visualisations/visualisations/figure_4_13.png)
+
+### RoBERTa Confusion Matrix
+![RoBERTa Confusion Matrix](visualisations/visualisations/figure_4_12.png)
+
+### Explainable AI — SHAP
+![SHAP Explanation](visualisations/visualisations/figure_4_17.png)
+
+### Explainable AI — LIME
+![LIME Explanation](visualisations/visualisations/figure_4_18.png)
